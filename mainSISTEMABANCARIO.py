@@ -1,3 +1,5 @@
+#Sistemma bancário simples, ultilizando algumas de laço e condicionais
+
 LIMITE = 500
 MAXIMO_SAQUE_DIARIO = 3
 operacao = ""
